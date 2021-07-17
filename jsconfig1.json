@@ -1,0 +1,12 @@
+{
+  "DirForTempFiles": [
+    "D://C#//TrashFolder//Temp"
+  ],
+  "PathOfBackUp": [
+    "D://C#//TrashFolder//Path to Back Up"
+  ],
+  "PathsOfDirs": [
+    "D://C#//TrashFolder//js1",
+    "D://C#//TrashFolder//js2"
+  ]
+}
